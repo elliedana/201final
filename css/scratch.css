@@ -1,0 +1,44 @@
+body{
+    background-color: darkgreen;
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border: 2px solid antiquewhite;
+    padding: 2px;
+    width: 500px;
+}
+.centerme{
+    display: block;
+    margin: auto;
+}
+ol{
+    background-color: antiquewhite;
+}
+.common{
+    position: absolute;
+}
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: forestgreen
+}
+.header{
+    top: 0px;
+    display: flex;
+}
+.mainbody{
+    top: 400px;
+
+}
+.title{
+    color: antiquewhite;
+}
+h1{
+    color: antiquewhite;
+}

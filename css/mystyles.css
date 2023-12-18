@@ -1,0 +1,17 @@
+h2{
+    font-family: Muli, 'Times New Roman', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder !important;
+}
+.darkcolor{
+    background-color: cornflowerblue !important;
+}
+.subheading{
+    font-family: Muli;
+    font-weight: lighter;
+}
+h3{
+    font-family: Muli; 
+}
+.text-primary{
+    color: cornflowerblue !important;
+}
